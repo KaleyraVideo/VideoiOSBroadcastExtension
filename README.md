@@ -2,7 +2,7 @@
 	<img src="https://static.bandyer.com/corporate/iOS/logo/kaleyra-logo.png" alt="Kaleyra Logo" title="Kaleyra Video" />
 </p>
 
-[![Cocoapods compatible](https://img.shields.io/cocoapods/v/BandyerBroadcastExtension)](https://cocoapods.org/pods/BandyerBroadcastExtension)
+[![Cocoapods compatible](https://img.shields.io/cocoapods/v/KaleyraVideoBroadcastExtension)](https://cocoapods.org/pods/KaleyraVideoBroadcastExtension)
 
 # Video iOS Broadcast extension
 
@@ -10,7 +10,7 @@ Repository hosting the Video iOS Broadcast extension SPM package
 
 ## Requirements
 
-The framework requires iOS 12.0 and Swift 5.1. 
+The framework requires iOS 15.0 and Swift 5.1. 
 
 ## Installation and usage guide
 
