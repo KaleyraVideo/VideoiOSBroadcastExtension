@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.7
 
 import PackageDescription
 
@@ -12,13 +12,13 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "BandyerBroadcastExtension",
-            targets: ["BandyerBroadcastExtension"])
+            name: "KaleyraVideoBroadcastExtension",
+            targets: ["KaleyraVideoBroadcastExtension"])
     ],
     targets: [
         .binaryTarget(
-            name: "BandyerBroadcastExtension",
-            url: "https://static.bandyer.com/corporate/iOS/releases/broadcastextension/\(version)/xcframework/BandyerBroadcastExtension.framework.zip",
+            name: "KaleyraVideoBroadcastExtension",
+            url: "https://static.bandyer.com/corporate/iOS/releases/broadcastextension/\(version)/xcframework/KaleyraVideoBroadcastExtension.framework.zip",
             checksum: checksum)
     ]
 )
