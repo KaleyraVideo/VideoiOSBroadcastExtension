@@ -2,8 +2,8 @@
 
 import PackageDescription
 
-let version = "1.2.0"
-let checksum = "4d0196ec3e46d4961b723341c9b8ab47ced62720be225532063f7ad1d7277d86"
+let version = "2.0.0"
+let checksum = "27c2ddb5b1fd42358dda487e0b09f21df711b83540f04e463ebcca0a4ef69b4d"
 
 let package = Package(
     name: "BandyerBroadcastExtension",
