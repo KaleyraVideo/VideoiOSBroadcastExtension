@@ -8,7 +8,7 @@ let checksum = "27c2ddb5b1fd42358dda487e0b09f21df711b83540f04e463ebcca0a4ef69b4d
 let package = Package(
     name: "BandyerBroadcastExtension",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v15)
     ],
     products: [
         .library(
